@@ -16,7 +16,7 @@ execute:
 **💻 Interactive Options:**
 
 - 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/pygame/04-snake-game-2.ipynb)**
-- 📥 **[Download Notebook (Challenge)](../../files/projects/pygame/game-logic-challenge.ipynb)** - For use in local Jupyter or Google Colab
+- 📥 **[Download Notebook (Challenge)](../../files/projects/pygame/04-snake-game-2.ipynb)** - For use in local Jupyter or Google Colab
 - 💡 **Note**: Pygame runs best locally with a display, but we'll show examples!
 :::
 
