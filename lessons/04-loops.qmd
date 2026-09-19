@@ -19,9 +19,9 @@ Perfect for students with **no programming experience**. This lesson introduces 
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../jupyterlite/lab/index.html?path=lessons/04-loops.ipynb)** - Full Jupyter environment in your browser
+- 📓 **<a href="../jupyterlite/lab/index.html?path=lessons/04-loops.ipynb" target="_blank">Open in JupyterLite</a>** - Full Jupyter environment in your browser
 - ▶️ **Run code directly below** - All code cells on this page are editable and runnable
-- 📥 **[Download Notebook](../files/lessons/04-loops.ipynb)** - For use in local Jupyter or Google Colab
+- 📥 **<a href="../files/lessons/04-loops.ipynb" target="_blank">Download Notebook</a>** - For use in local Jupyter or Google Colab
 :::
 
 ## 📖 Introduction: The Repetitive Task
