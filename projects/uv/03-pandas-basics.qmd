@@ -26,6 +26,14 @@ Learn the powerful pandas library for data manipulation. Pandas is used by data 
 - 📥 **[Download Notebook (Challenge)](../../files/projects/uv/data-analysis-challenge.ipynb)** - For use in local Jupyter or Google Colab
 :::
 
+::: {.callout-note}
+
+Special Note: This project is designed for students who have completed the first chapter of CS Quests and are familiar with Python basics. If you're new to programming, consider starting with the earlier lessons before diving into this project.
+
+Another Special Note: This project requires a local Python environment for full functionality. While we provide examples and code snippets here, some features may not run directly in the browser. For the best experience, consider setting up the project on your own computer.
+
+:::
+
 ## 📖 Introduction: What is Pandas?
 
 **Pandas** is Python's most popular library for working with data. Think of it as Excel on steroids—you can:

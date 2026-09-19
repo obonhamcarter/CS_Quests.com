@@ -235,6 +235,39 @@ Discover one-line anonymous functions for elegant, concise code!
 
 </div>
 
+## 🧩 Project Quests
+
+<div class="quest-grid">
+
+::: {.quest-card}
+### 📊 Project: UV & Data Analysis
+**Modern Python Workflow**
+
+Build a real data analysis project using UV, pandas, and matplotlib to work like a modern developer.
+
+[Start Project →](projects/uv/01-intro-uv.qmd)
+:::
+
+::: {.quest-card}
+### 🎮 Project: Pygame Games
+**Build Your Own Games**
+
+Create interactive games like Snake and Space Invaders while learning event handling, animation, and game design.
+
+[Start Project →](projects/pygame/01-intro-pygame.qmd)
+:::
+
+::: {.quest-card}
+### 🎨 Project: Manim Animations
+**Math in Motion**
+
+Design beautiful mathematical animations and visual explanations with Manim.
+
+[Start Project →](projects/manim/01-intro-manim.qmd)
+:::
+
+</div>
+
 ## 📱 Access on Your Phone!
 
 Each quest has a unique QR code that you can scan with your phone to access the lesson anywhere, anytime! Ask your instructor for the QR code collection.
