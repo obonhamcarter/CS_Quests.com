@@ -13,8 +13,8 @@ format:
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/manim/02-setup-manim.ipynb)**
-- 📥 **[Download Notebook (Challenge)](../../files/projects/manim/02-setup-manim.ipynb)**
+- 📓 **<a href="../../jupyterlite/lab/index.html?path=projects/manim/02-setup-manim.ipynb" target="_blank">Open in JupyterLite</a>**
+- 📥 **<a href="../../files/projects/manim/02-setup-manim.ipynb" target="_blank">Download Notebook (Challenge)</a>**
 - 💡 **Note**: Manim requires FFmpeg and LaTeX for full functionality
 :::
 
@@ -64,7 +64,7 @@ sudo apt install ffmpeg texlive-latex-base texlive-fonts-recommended
 ```
 
 **Option 2: Quick Start (Jupyter/Online)**
-- Use [Manim Community Online](https://try.manim.community/)
+- Use <a href="https://try.manim.community/" target="_blank">Manim Community Online</a>
 - Run in Google Colab with `!pip install manim`
 
 ## 🎬 Your First Scene
@@ -206,5 +206,5 @@ Now that you can create and animate basic objects, we'll learn:
 ---
 
 ::: {.navigation-box}
-**Previous**: [3.1 Intro to Manim](01-intro-manim.qmd) | **Next**: [3.3 Math Functions & Graphs](03-math-functions.qmd)
+**Previous**: <a href="01-intro-manim.qmd" target="_blank">3.1 Intro to Manim</a> | **Next**: <a href="03-math-functions.qmd" target="_blank">3.3 Math Functions & Graphs</a>
 :::

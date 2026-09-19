@@ -15,8 +15,8 @@ execute:
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/pygame/02-setup-pygame.ipynb)**
-- 📥 **[Download Notebook (Challenge)](../../files/projects/pygame/02-setup-pygame.ipynb)** - For use in local Jupyter or Google Colab
+- 📓 **<a href="../../jupyterlite/lab/index.html?path=projects/pygame/02-setup-pygame.ipynb" target="_blank">Open in JupyterLite</a>**
+- 📥 **<a href="../../files/projects/pygame/02-setup-pygame.ipynb" target="_blank">Download Notebook (Challenge)</a>** - For use in local Jupyter or Google Colab
 - 💡 **Note**: Pygame requires a display, so run these examples locally!
 :::
 
@@ -274,5 +274,5 @@ Now that you can create windows and handle input, we'll build our first game: **
 ---
 
 ::: {.navigation-box}
-**Previous**: [2.1 Intro to Pygame](01-intro-pygame.qmd) | **Next**: [2.3 Building Snake - Part 1](03-snake-game-1.qmd)
+**Previous**: <a href="01-intro-pygame.qmd" target="_blank">2.1 Intro to Pygame</a> | **Next**: <a href="03-snake-game-1.qmd" target="_blank">2.3 Building Snake - Part 1</a>
 :::

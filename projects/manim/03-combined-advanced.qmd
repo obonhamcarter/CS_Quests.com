@@ -317,5 +317,5 @@ The best way to solidify these skills: **build something that excites YOU**. Pic
 ---
 
 ::: {.navigation-box}
-**Previous**: [3.2 Setup Manim](02-setup-manim.qmd) | **Home**: [All Projects](../../all-quests.qmd)
+**Previous**: <a href="02-setup-manim.qmd" target="_blank">3.2 Setup Manim</a> | **Home**: <a href="../../all-quests.qmd" target="_blank">All Projects</a>
 :::

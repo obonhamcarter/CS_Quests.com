@@ -21,8 +21,8 @@ Hands-on installation and project setup. You'll learn terminal commands and proj
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/uv/02-setup-uv.ipynb)** - Full Jupyter environment in your browser
-  - 📥 **[Download Notebook](../../files/projects/uv/02-setup-uv.ipynb)** - For use in local Jupyter or Google Colab
+- 📓 **<a href="../../jupyterlite/lab/index.html?path=projects/uv/02-setup-uv.ipynb" target="_blank">Open in JupyterLite</a>** - Full Jupyter environment in your browser
+  - 📥 **<a href="../../files/projects/uv/02-setup-uv.ipynb" target="_blank">Download Notebook</a>** - For use in local Jupyter or Google Colab
 - 💡 **Note**: Installing UV requires a terminal, so we'll show examples but you'll run this locally!
 :::
 
@@ -263,5 +263,5 @@ Now that you have UV set up and a working project, in the next slide we'll:
 ---
 
 ::: {.navigation-box}
-**Previous**: [1.1 Meet UV](01-intro-uv.qmd) | **Next**: [1.3 Data Magic with Pandas](03-pandas-basics.qmd)
+**Previous**: <a href="01-intro-uv.qmd" target="_blank">1.1 Meet UV</a> | **Next**: <a href="03-pandas-basics.qmd" target="_blank">1.3 Data Magic with Pandas</a>
 :::

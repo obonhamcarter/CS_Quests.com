@@ -21,9 +21,9 @@ Learn the powerful pandas library for data manipulation. Pandas is used by data 
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/uv/03-pandas-basics.ipynb)** - Full Jupyter environment in your browser
+- 📓 **<a href="../../jupyterlite/lab/index.html?path=projects/uv/03-pandas-basics.ipynb" target="_blank">Open in JupyterLite</a>** - Full Jupyter environment in your browser
 - ▶️ **Run code directly below** - All code cells on this page are editable and runnable
-- 📥 **[Download Notebook (Challenge)](../../files/projects/uv/03-pandas-basics.ipynb)** - For use in local Jupyter or Google Colab
+- 📥 **<a href="../../files/projects/uv/03-pandas-basics.ipynb" target="_blank">Download Notebook (Challenge)</a>** - For use in local Jupyter or Google Colab
 :::
 
 ::: {.callout-note}
@@ -300,5 +300,5 @@ Now that you can manipulate data with pandas, in the next slide we'll:
 ---
 
 ::: {.navigation-box}
-**Previous**: [1.2 Installing UV](02-setup-uv.qmd) | **Next**: [1.4 Visualizing Data with Matplotlib](04-matplotlib-viz.qmd)
+**Previous**: <a href="02-setup-uv.qmd" target="_blank">1.2 Installing UV</a> | **Next**: <a href="04-matplotlib-viz.qmd" target="_blank">1.4 Visualizing Data with Matplotlib</a>
 :::

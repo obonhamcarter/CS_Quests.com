@@ -21,8 +21,8 @@ Learn game development with Pygame! Perfect for students who know Python basics 
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/pygame/01-intro-pygame.ipynb)** - Full Jupyter environment in your browser
-- 📥 **[Download Notebook (Challenge)](../../files/projects/pygame/01-intro-pygame.ipynb)** - For use in local Jupyter or Google Colab
+- 📓 **<a href="../../jupyterlite/lab/index.html?path=projects/pygame/01-intro-pygame.ipynb" target="_blank">Open in JupyterLite</a>** - Full Jupyter environment in your browser
+- 📥 **<a href="../../files/projects/pygame/01-intro-pygame.ipynb" target="_blank">Download Notebook (Challenge)</a>** - For use in local Jupyter or Google Colab
 - 💡 **Note**: Pygame runs best locally with a display, but we'll show examples!
 :::
 
@@ -362,5 +362,5 @@ Get ready to see your code come to life! 🎮
 ---
 
 ::: {.navigation-box}
-**Next**: [2.2 Setting Up Pygame & First Window](02-setup-pygame.qmd)
+**Next**: <a href="02-setup-pygame.qmd" target="_blank">2.2 Setting Up Pygame & First Window</a>
 :::

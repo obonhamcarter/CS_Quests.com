@@ -15,8 +15,8 @@ execute:
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/pygame/03-snake-game-1.ipynb)**
-- 📥 **[Download Notebook (Challenge)](../../files/projects/pygame/03-snake-game-1.ipynb)** - For use in local Jupyter or Google Colab
+- 📓 **<a href="../../jupyterlite/lab/index.html?path=projects/pygame/03-snake-game-1.ipynb" target="_blank">Open in JupyterLite</a>**
+- 📥 **<a href="../../files/projects/pygame/03-snake-game-1.ipynb" target="_blank">Download Notebook (Challenge)</a>** - For use in local Jupyter or Google Colab
 - 💡 **Note**: Pygame runs best locally with a display, but we'll show examples!
 :::
 
@@ -309,5 +309,5 @@ In the next slide, we'll complete the Snake game with:
 ---
 
 ::: {.navigation-box}
-**Previous**: [2.2 Setup Pygame](02-setup-pygame.qmd) | **Next**: [2.4 Snake Game - Part 2](04-snake-game-2.qmd)
+**Previous**: <a href="02-setup-pygame.qmd" target="_blank">2.2 Setup Pygame</a> | **Next**: <a href="04-snake-game-2.qmd" target="_blank">2.4 Snake Game - Part 2</a>
 :::

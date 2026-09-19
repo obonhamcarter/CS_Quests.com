@@ -21,9 +21,9 @@ Perfect for students who have completed basic Python lessons. This project intro
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/uv/01-intro-uv.ipynb)** - Full Jupyter environment in your browser
+- 📓 **<a href="../../jupyterlite/lab/index.html?path=projects/uv/01-intro-uv.ipynb" target="_blank">Open in JupyterLite</a>** - Full Jupyter environment in your browser
 - ▶️ **Run code directly below** - All code cells on this page are editable and runnable
-- 📥 **[Download Notebook (Challenge)](../../files/projects/uv/01-intro-uv.ipynb)** - For use in local Jupyter or Google Colab
+- 📥 **<a href="../../files/projects/uv/01-intro-uv.ipynb" target="_blank">Download Notebook (Challenge)</a>** - For use in local Jupyter or Google Colab
 :::
 
 ::: {.callout-note}
@@ -129,12 +129,12 @@ Have you ever worked on a project where you had to install lots of packages? How
 
 ## 📚 Additional Resources
 
-- [UV Official Documentation](https://docs.astral.sh/uv/)
-- [Why UV is Fast (Technical Deep Dive)](https://astral.sh/blog/uv)
-- [Python Package Management Overview](https://realpython.com/python-virtual-environments-a-primer/)
+- <a href="https://docs.astral.sh/uv/" target="_blank">UV Official Documentation</a>
+- <a href="https://astral.sh/blog/uv" target="_blank">Why UV is Fast (Technical Deep Dive)</a>
+- <a href="https://realpython.com/python-virtual-environments-a-primer/" target="_blank">Python Package Management Overview</a>
 
 ---
 
 ::: {.navigation-box}
-**Next**: [1.2 Installing UV & Creating Your First Project](02-setup-uv.qmd)
+**Next**: <a href="02-setup-uv.qmd" target="_blank">1.2 Installing UV & Creating Your First Project</a>
 :::

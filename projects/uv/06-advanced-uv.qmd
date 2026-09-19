@@ -21,8 +21,8 @@ Learn advanced UV features, best practices, and discover what's next in your dat
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/uv/06-advanced-uv.ipynb)** - Full Jupyter environment in your browser
-- 📥 **[Download Notebook (Challenge)](../../files/projects/uv/06-advanced-uv.ipynb)** - For use in local Jupyter or Google Colab
+- 📓 **<a href="../../jupyterlite/lab/index.html?path=projects/uv/06-advanced-uv.ipynb" target="_blank">Open in JupyterLite</a>** - Full Jupyter environment in your browser
+- 📥 **<a href="../../files/projects/uv/06-advanced-uv.ipynb" target="_blank">Download Notebook (Challenge)</a>** - For use in local Jupyter or Google Colab
 :::
 
 ::: {.callout-note}
@@ -435,20 +435,20 @@ Ready to build something amazing? Try these:
 ## 📚 Learning Resources
 
 ### Official Documentation
-- [UV Documentation](https://docs.astral.sh/uv/)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
+- <a href="https://docs.astral.sh/uv/" target="_blank">UV Documentation</a>
+- <a href="https://pandas.pydata.org/docs/" target="_blank">Pandas Documentation</a>
+- <a href="https://matplotlib.org/stable/gallery/index.html" target="_blank">Matplotlib Gallery</a>
 
 ### Tutorials & Courses
-- [Kaggle Learn](https://www.kaggle.com/learn) - Free data science courses
-- [Real Python](https://realpython.com/) - Python tutorials
-- [DataCamp](https://www.datacamp.com/) - Interactive courses
+- <a href="https://www.kaggle.com/learn" target="_blank">Kaggle Learn</a> - Free data science courses
+- <a href="https://realpython.com/" target="_blank">Real Python</a> - Python tutorials
+- <a href="https://www.datacamp.com/" target="_blank">DataCamp</a> - Interactive courses
 
 ### Datasets to Practice With
-- [Kaggle Datasets](https://www.kaggle.com/datasets) - Millions of datasets
-- [Google Dataset Search](https://datasetsearch.research.google.com/)
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
-- [FiveThirtyEight Data](https://data.fivethirtyeight.com/)
+- <a href="https://www.kaggle.com/datasets" target="_blank">Kaggle Datasets</a> - Millions of datasets
+- <a href="https://datasetsearch.research.google.com/" target="_blank">Google Dataset Search</a>
+- <a href="https://archive.ics.uci.edu/ml/index.php" target="_blank">UCI Machine Learning Repository</a>
+- <a href="https://data.fivethirtyeight.com/" target="_blank">FiveThirtyEight Data</a>
 
 ## 🎉 Congratulations!
 
@@ -486,5 +486,5 @@ You have the foundation to tackle real-world data problems. Start with a small p
 ---
 
 ::: {.navigation-box}
-**Previous**: [1.5 Real-World Project](05-complete-project.qmd) | **Next Chapter**: [Pygame - Build Games!](../../projects/pygame/01-intro-pygame.qmd)
+**Previous**: <a href="05-complete-project.qmd" target="_blank">1.5 Real-World Project</a> | **Next Chapter**: <a href="../../projects/pygame/01-intro-pygame.qmd" target="_blank">Pygame - Build Games!</a>
 :::

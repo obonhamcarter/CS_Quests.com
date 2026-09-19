@@ -15,8 +15,8 @@ execute:
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/pygame/05-space-invaders.ipynb)**
-- 📥 **[Download Notebook (Challenge)](../../files/projects/pygame/05-space-invaders.ipynb)** - For use in local Jupyter or Google Colab
+- 📓 **<a href="../../jupyterlite/lab/index.html?path=projects/pygame/05-space-invaders.ipynb" target="_blank">Open in JupyterLite</a>**
+- 📥 **<a href="../../files/projects/pygame/05-space-invaders.ipynb" target="_blank">Download Notebook (Challenge)</a>** - For use in local Jupyter or Google Colab
 - 💡 **Note**: Pygame runs best locally with a display, but we'll show examples!
 :::
 
@@ -435,5 +435,5 @@ You've now built two classic games! In the final slide, we'll explore:
 ---
 
 ::: {.navigation-box}
-**Previous**: [2.4 Snake Part 2](04-snake-game-2.qmd) | **Next**: [2.6 Advanced Game Development](06-advanced-pygame.qmd)
+**Previous**: <a href="04-snake-game-2.qmd" target="_blank">2.4 Snake Part 2</a> | **Next**: <a href="06-advanced-pygame.qmd" target="_blank">2.6 Advanced Game Development</a>
 :::

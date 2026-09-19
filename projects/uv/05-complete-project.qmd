@@ -21,9 +21,9 @@ This is where it all comes together! Build a complete data analysis project usin
 ::: {.tip-box}
 **💻 Interactive Options:**
 
-- 📓 **[Open in JupyterLite](../../jupyterlite/lab/index.html?path=projects/uv/05-complete-project.ipynb)** - Full Jupyter environment in your browser
+- 📓 **<a href="../../jupyterlite/lab/index.html?path=projects/uv/05-complete-project.ipynb" target="_blank">Open in JupyterLite</a>** - Full Jupyter environment in your browser
 - ▶️ **Run code directly below** - All code cells on this page are editable and runnable
-- 📥 **[Download Notebook (Challenge)](../../files/projects/uv/05-complete-project.ipynb)** - For use in local Jupyter or Google Colab
+- 📥 **<a href="../../files/projects/uv/05-complete-project.ipynb" target="_blank">Download Notebook (Challenge)</a>** - For use in local Jupyter or Google Colab
 :::
 
 ::: {.callout-note}
@@ -458,5 +458,5 @@ Want to take this further?
 ---
 
 ::: {.navigation-box}
-**Previous**: [1.4 Visualizing Data](04-matplotlib-viz.qmd) | **Next**: [1.6 Advanced Topics & Next Steps](06-advanced-uv.qmd)
+**Previous**: <a href="04-matplotlib-viz.qmd" target="_blank">1.4 Visualizing Data</a> | **Next**: <a href="06-advanced-uv.qmd" target="_blank">1.6 Advanced Topics & Next Steps</a>
 :::
